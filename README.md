@@ -41,16 +41,16 @@ With a unique blend of healthcare knowledge and tech implementation experience, 
 
 ## 🛠 **Skills**
 
-Programming & Analysis  
+**Programming & Analysis**  
 Python • SQL • EDA • Statistical Analysis • Data Cleaning
 
-Machine Learning & NLP  
+**Machine Learning & NLP**  
 Classification • Feature Engineering • Text Processing • Sentiment Analysis
 
-Visualization & BI  
+**Visualization & BI**  
 Tableau • Power BI • Matplotlib • Seaborn
 
-Data Engineering (Basic)  
+**Data Engineering (Basic)**  
 Airflow • Docker • PostgreSQL • Elasticsearch • Kibana • BigQuery
 
 ---
