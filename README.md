@@ -1,4 +1,4 @@
-## ✨ **Ade Widya Ningrum — Data Analyst / Data Scientist**
+# ✨ **Ade Widya Ningrum — Data Analyst / Data Scientist**
 
 
 👋 **Hi there!**   
