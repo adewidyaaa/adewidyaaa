@@ -62,6 +62,6 @@ Airflow • Docker • PostgreSQL • Elasticsearch • Kibana • BigQuery
 
 ---
 
-Thanks for visiting my data corner!
+Thanks for visiting my data corner!  
 I’m always excited to learn, share, and connect with people who love data as much as I do 💛
 
