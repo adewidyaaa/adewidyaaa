@@ -39,17 +39,6 @@ With a unique blend of healthcare knowledge and tech implementation experience, 
 
 ---
 
-## 📊 My Dashboard Corner
-
-I love turning raw data into clean, insightful visuals.  
-Here’s one example of a dashboard I built:
-
-<div align="center">
-  <img src="https://github.com/adewidyaaa/SkinMate/blob/main/SkinMate%20Dashboard.png" width="800">
-</div>
-
----
-
 ## 🛠 **Skills**
 
 **Programming & Analysis**  
@@ -63,6 +52,17 @@ Tableau • Power BI • Matplotlib • Seaborn
 
 **Data Engineering (Basic)**  
 Airflow • Docker • PostgreSQL • Elasticsearch • Kibana • BigQuery
+
+---
+
+## 📊 My Dashboard Corner
+
+I love turning raw data into clean, insightful visuals.  
+Here’s one example of a dashboard I built:
+
+<div align="center">
+  <img src="./SkinMate-Dashboard.png" width="800">
+</div>
 
 ---
 
