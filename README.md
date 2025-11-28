@@ -57,12 +57,16 @@ Airflow • Docker • PostgreSQL • Elasticsearch • Kibana • BigQuery
 
 ## 📊 My Dashboard Corner
 
-I love turning raw data into clean, insightful visuals.  
-Here’s one example of a dashboard I built:
+I enjoy transforming raw datasets into clear, meaningful dashboards.
+Below are a few examples of my visualization work:
 
-<div align="center">
-  <img src="./SkinMate-Dashboard.png" width="800">
-</div>
+SkinMate Dashboard — built with Power BI
+
+<div align="center"> <img src="./SkinMate-Dashboard.png" width="800"> </div>
+
+Coffee Shop Dashboard — built with Tableau
+
+<div align="center"> <img src="./Coffee-Shop-Dashboard.png" width="800"> </div>
 
 ---
 
